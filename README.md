@@ -11,7 +11,8 @@ wget https://raw.githubusercontent.com/wibucrypto2201/allora-worker/main/alloraw
 
 Check status
 
-```  curl --location 'http://localhost:6000/api/v1/functions/execute' \
+```
+  curl --location 'http://localhost:6000/api/v1/functions/execute' \
 --header 'Content-Type: application/json' \
 --data '{
     "function_id": "bafybeigpiwl3o73zvvl6dxdqu7zqcub5mhg65jiky2xqb4rdhfmikswzqm",
