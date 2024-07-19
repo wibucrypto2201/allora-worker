@@ -3,7 +3,8 @@
 # Bước 1
 Chạy lệnh 
 
-```cd
+```
+cd
 rm -rf alloraworker.sh
 wget https://raw.githubusercontent.com/wibucrypto2201/allora-worker/main/alloraworker.sh && chmod +x alloraworker.sh && ./alloraworker.sh
 ```
