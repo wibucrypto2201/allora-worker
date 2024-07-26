@@ -1,3 +1,338 @@
-z="
-";Fz='RLIN';NCz='${RE';nDz='ker.';TKz='-1';URz='vpL4';DJz='port';qIz='cd a';oz='"$1"';fMz='serv';fRz='ad';jGz='l/bi';IJz=' add';IDz='ake ';uIz='&& m';SOz='e tr';ZJz='ora.';FIz='t PA';jHz=' -rf';IRz='9hpv';ZEz='ture';NSz='-cha';dLz='& al';lSz='1';xEz='ee /';mTz='OW}I';bEz='gned';fQz='twor';EMz='ID: ';UHz='="1.';oEz=' $(l';GPz='- "/';pKz='anet';bBz='T}"';ROz='whil';iPz='peer';xNz='upda';gPz='er-d';IKz='-dat';pOz='ealt';hCz='upgr';oPz='unct';MSz='--al';wPz='runt';YBz='drop';LNz='fere';jQz='p2p/';jKz='h -v';UIz='rce ';JHz='o us';ESz='D_ID';VMz='W}Ge';yDz='untu';IHz='r'\''';gHz='tar.';xIz='and ';hDz='l py';bDz='nzip';NFz=''\''';OGz='ithu';hIz='//gi';SMz='ED_P';mOz='n: s';qJz='asic';CQz='spac';sKz='renc';WNz=': ["';hEz='ngs/';UTz='nd s';YNz=', "c';vJz='-nod';wRz='011 ';wBz='$ ]]';EPz='ypoi';eDz=' pyt';uPz='e-pa';RSz='nemo';HIz='PATH';hOz='depe';KHz='ermo';VDz='line';RPz='n';XNz='CMD"';WTz='er c';aPz='ra-k';jFz='ose.';aGz='ompo';xGz='p -q';GMz='AD_I';tEz='stab';LJz=' --r';Vz='0;32';tRz=' --f';DMz='EAD_';EOz='ent:';ONz='_add';MHz='G do';iKz='=bas';iSz='ame=';SRz='gpck';gSz='in-k';NEz='arch';GKz='r-2 ';Tz='RESE';PEz='ing.';az='mpt(';rRz='a/pe';FEz='r -o';iRz='er-1';TBz='http';ZCz='"sud';Kz='_YEL';PJz='nk F';KEz='ings';RDz='b-re';WJz='.tes';ySz='conf';aMz='<<EO';VBz='t.me';gCz='apt ';Oz='33m"';rz=' "Co';YRz='CCXk';sHz=' -xz';OJz=' "Li';DHz='up; ';wHz='amd6';yCz=' lib';DPz='entr';WRz='Xtvr';dTz='unni';YTz='iner';rBz='"$re';aIz='INE}';ZDz='scre';mNz='time';bTz='p -d';NDz='al p';tDz='load';sTz='y${R';hBz='N):$';fLz='s)"';pBz='if [';aKz='ead ';CPz='ME=/';uFz='os/d';lQz='KooW';AMz='le."';eKz='-it ';BPz='- HO';KJz='tkey';hNz='/ETH';tMz='hon ';IMz='"Pas';kz='ESET';GTz='ers:';wOz='se-h';nKz=':/da';JIz='go/b';TFz='i co';hSz='ey-n';pIz='.git';LIz='HOME';iLz='is i';EQz='e \';XBz='uair';dBz='YAN}';mPz='=/da';PMz=' " W';cGz='(una';fOz='h;';HPz='bin/';WKz='ad-d';nJz='n-no';gz='Exec';sGz='ose ';uGz='n'\''';lNz=': 10';aBz='? ${';NBz='n yo';Lz='LOW=';fBz='ou ?';WBz='/wib';oKz='ta a';DBz='ELLO';iCz='ade ';HHz='dd d';cHz='/go$';lMz='r_na';LBz='}';qSz='013 ';ZGz='R"'\''/';rTz='full';NJz='er';rHz='ocal';uBz='=~ ^';ZSz='e-rp';ILz='ys)"';dRz='ta';yOz='late';DTz='.0.0';QTz='ully';Nz='3[0;';YEz='itec';jTz='}${D';YJz='.all';SFz='e-cl';QLz='ence';GFz='r.li';xMz='py';WEz='--pr';SCz='yste';VOz='pyth';XFz='-y'\''';DCz=' the';hKz='oint';HMz='D';wQz='qgEC';bFz='r ve';mIz='allo';TCz='m de';mBz='"" r';DSz='$HEA';aSz='c-ad';lPz='n-db';OHz='ER'\''';OPz='/pri';sMz='and:';GRz='BfY5';cQz='-1.t';jSz='in-t';sz='mman';gKz='tryp';tIz='ain ';kHz='r/lo';lLz='cat ';hHz='gz"'\''';ABz='else';uMz='-u /';hQz='p/32';oSz='2';LDz='-ess';cMz='ml';dGz='me -';nRz='7s';xCz='-dev';ZLz=' && ';qLz='se.y';lOz='itio';QPz='n ];';fTz='r co';QIz='ash_';qBz='[ ! ';WOz='on -';CCz='meet';ZOz='pdat';mRz='le_b';SEz='o "d';PGz='b.co';CMz='er H';lDz='p -y';VJz='et-1';PBz='llow';jMz='cont';yJz='r wo';CKz='s/wo';LPz='- |';RQz='st-a';YPz='eys';SQz='pi=:';gRz='.0.1';FBz='ror ';rPz='\';NRz='132/';oGz='+x /';ADz='ncur';uCz='cate';yRz='4/17';vBz='[Yy]';eOz='p 24';fGz='m)" ';XDz='dev ';vFz='r/co';oHz='ar -';kIz='netw';oCz='kage';EFz='.d/d';aCz='o ap';lRz='Dock';SNz='.0.4';nBz='espo';aHz='g.or';bCz='t up';LGz='L "h';jBz='ET}"';fHz='d64.';PRz='So95';XLz='p /d';HQz='y=/d';jEz='er-a';oIz='hain';eRz='- he';UDz='bssl';QSz='re-m';cKz=' doc';gQz='k/tc';oFz='tps:';yQz='ad-1';MQz='bug ';wz='ucce';RFz='er-c';ZTz='se b';VQz='--bo';pPz='ion-';pDz=''\''cur';MKz=' per';ASz='00/t';tJz='edic';UCz='pend';NHz=' $US';vLz=' "Re';mCz='ling';MFz='t-ge';OQz='rt=9';JDz='jq b';vHz='nux-';EDz=' cur';CDz='gdbm';LMz='Reco';mFz='rl -';pGz='r-co';IPz='bash';KFz='ll'\''';Jz='DARK';kRz='le: ';QFz='-ce ';gTz='ners';kMz='aine';jRz='erfi';NNz='ipv4';ez='"${B';cIz='oran';xRz='=/ip';EGz='_nam';BTz='- su';pTz=' suc';vz='ed s';YHz='t "h';AFz='apt/';cLz='ys &';gGz='-o /';mGz='o ch';pHz='C /u';DEz='--de';VLz='"mkd';CJz='W}Im';XTz='onta';vGz='if !';bIz=' All';Sz='"';ORz='ATfU';HOz='NCE_';XHz=' wge';MJz='ecov';wDz='linu';sPz='--ru';GDz='t wg';MMz='very';tHz='f "g';FDz='l gi';ZMz='file';Mz='"\03';GEz=' /us';AIz='"'\''';KMz='our ';iJz='basi';TNz='heal';LHz='d -a';hGz='usr/';wLz='move';sQz='BM9L';tLz='e.ym';jOz='on:';lCz='stal';JMz='te Y';qFz='i.gi';YSz=''\'' \';tCz='tifi';sBz='spon';TEz='eb [';ISz='opic';cDz=' lz4';lTz='YELL';LFz=''\''sud';rLz='ml ]';DQz='e=/d';XEz='int-';wMz='app.';rKz='infe';ARz='131/';PCz='W}Up';xKz='dir ';ALz='/key';PFz='cker';oLz='ity';MRz='ad-2';EEz='armo';SKz='7 wo';iNz='"]';gNz='00/i';oNz=' 10s';lKz='ead-';KQz='leve';dPz='--ro';Bz='="\0';eSz='-rpc';ENz='eth-';vKz='t -c';JRz='84ff';OFz='l do';UGz='ease';ePz='le=h';rQz='E7tW';nQz='SucV';FMz='" HE';THz=''\''ver';KOz='ESS=';qMz=' .';kQz='12D3';nSz='- wo';pz='; th';TTz='ildi';pRz='r --';RKz='R 77';nLz='dent';QDz='g ls';MTz='e ge';CNz='8000';lz='}"';GCz='d sp';uLz='l';hFz='ion'\''';UMz='E';GIz='TH=$';bz=') {';iMz='e:';JCz='ions';HBz='d: $';BGz='t | ';EKz='orke';XOz='u /a';sSz='3';yz='lly.';HGz='-d '\''';WLz='ir -';LEz='/doc';vDz='com/';LKz='ving';OIz=' >> ';wIz='ng a';VPz='vate';TMz='HRAS';bSz='dres';WHz='" &&';KTz='.yml';AOz='ter';YLz='ata/';UPz=' pri';LTz=' fil';Pz='CYAN';cRz='dir:';SHz='E'\''';CTz='bnet';oJz='de';AQz='s-ru';Hz='033[';KNz='- in';vEz='| su';kGz='n/do';sIz='a-ch';wNz='ta:/';rDz='sSL ';mMz='me: ';WGz='wnlo';EIz='xpor';qEz='elea';jIz='ora-';FLz='eys ';MDz='enti';uSz='er: ';JFz='v/nu';ERz='H88j';mHz='go &';DGz=' tag';wCz='ib1g';QEz='gpg'\''';eQz='a.ne';tz='d ex';KIz='in:$';JTz='W}do';fKz='--en';LOz='://i';uz='ecut';kDz='3-pi';ZBz='142 ';gIz='e ht';jCz='-y"';mEz='ng.g';kNz='rval';cz='echo';BDz='ses5';bPz='ra-n';aFz='ng d';uOz='imag';HEz='r/sh';Cz='33[1';MGz='ttps';CLz=' (cd';vSz='brid';bJz='d yo';QQz='--re';yBz=' You';QGz='m/do';MCz='g...';OOz=' >';rOz='- up';hJz='node';BJz='ion';RBz='ucry';kKz=' ./h';eIz='git ';WQz='ot-n';tKz='e-ba';mKz='data';GLz='&& a';iEz='dock';jJz='c-co';dFz='n...';qRz='-db=';BSz='cp/9';cNz='"htt';Wz='exec';oMz='d:';BNz='000:';rEz='se -';vQz='qejy';TGz='/rel';eTz='ng D';qHz='sr/l';RNz='2.22';uRz='db=/';JJz=' tes';HFz='st >';hPz='b=/d';iGz='loca';mQz='LBhs';qKz='work';ZPz='cd /';RLz='-bas';dIz='d...';FGz='e | ';NIz='bin"';BBz='${DA';NMz=' Phr';TSz=''\''$WA';dJz='t fa';qz='en';LSz='=wor';TRz='uFeS';FJz='wall';mDz=' Doc';BEz=' | s';uHz='o$ve';DLz=' /da';ZHz='olan';sRz='erdb';GNz='l-lo';bMz='F > ';xz='ssfu';Uz='T="\';eNz='lhos';QRz='wtZs';pEz='sb_r';UKz='-2';pLz=' -f ';XMz='ting';gEz='eyri';oDz='..${';wFz='mpos';COz='envi';KSz='-wor';YOz='pp/u';gMz='ices';FRz='u63R';xJz='mkdi';PHz=' Go.';WPz=' key';nTz='nsta';AGz='ates';qQz='pvK8';ZNz='url"';NKz='miss';jNz='inte';VNz='eck:';RRz='eHbo';xHz='4.ta';bGz='se-$';SLz='e:la';LLz='/dat';aRz='a:/d';tGz='--ve';XSz='RASE';OBz='u fo';BCz='not ';uKz='se:l';dDz=' -y"';AKz='rker';kPz='-fun';BIz=''\''rm ';aEz=') si';EHz='then';lHz='cal/';iBz='{RES';BLz='s &&';EJz='ing ';yNz='ter:';mLz='ys/i';XGz='ad/'\''';bHz='g/dl';MNz='nce';QKz='od -';qTz='cess';FKz='rs/w';SGz='pose';vNz='e-da';xLz='isti';HTz='a:';Az='BOLD';eCz='&& s';aJz='W}Di';NLz='lora';Ez='UNDE';xFz='e/re';JBz=' 1';WMz='nera';rFz='thub';ECz=' req';UFz='ntai';PQz='010 ';pSz='er-2';dHz='ver.';YGz='"$VE';tQz='19s7';gOz='done';vMz='app/';fDz='hon3';CRz='g7YH';FTz='ta:';lJz='redi';PTz='essf';IQz='n --';fz='OLD}';UNz='thch';TPz=' new';qOz='hy';VHz='21.3';xQz=',/dn';sOz='r';TOz='ue; ';lBz=' -p ';hRz='00';dKz='run ';xPz='ime ';GBz='g co';dMz='ion:';GSz='pic=';VSz='_SEE';YIz='${UN';HJz='keys';LQz='l=de';eGz='s)-$';TJz='et.t';YFz='W}Ch';uDz='.doc';CIz='"go$';IEz='are/';IGz='"'\'' -';HNz='cal:';uJz='tion';xBz='ror:';QOz='c "';cCz='date';gJz=' wor';kEz='rchi';eJz='ucet';FHz='o gr';lEz='ve-k';GOz='FERE';GJz='et..';sDz='down';WCz='es..';YMz='yml ';JOz='ADDR';YQz='=/dn';iOz='nds_';NPz='f /d';RGz='/com';tSz='driv';eEz='/sha';NTz='ted ';hLz='W}Th';vOz='e: a';wJz='e';vCz='s zl';rIz='llor';FOz='- IN';INz='alia';KKz='W}Gi';rCz='l ca';EBz='W}Er';NQz='--po';lFz='$(cu';RHz='$HOM';pCz='s...';GQz='e-ke';WSz='D_PH';dQz='et.a';ZRz='- "6';HRz='hbdv';WDz='ffi-';nHz='& su';qDz='l -f';DOz='ronm';RCz='ng s';PKz=' chm';dSz='//al';ITz='EOF';JSz='-1-w';tOz='.0.5';jz='1${R';IFz=' /de';XRz='jVHc';sFz='.com';tPz='ntim';ODz='kg-c';aOz='e_ap';cOz=';';VIz='ng g';DFz='list';tBz='se" ';HCz='ecif';DDz='nss3';UJz='estn';iHz='o rm';pFz='//ap';XJz='tnet';sEz='cs) ';REz=''\''ech';PIz='E/.b';MOz=':800';MIz='/go/';Dz='m"';nNz='out:';dEz='/usr';rJz='-coi';bQz='-p2p';tNz='mes:';iQz='130/';cSz='s=ht';FPz='nt:';KPz='c"';VKz='7 he';JQz='log-';hz='utin';UBz='s://';cJz='u ge';OSz='in-r';ULz=' -c ';YKz='W}yo';IBz='exit';XQz='odes';RTz='!${R';gLz='r-2:';Qz='33[0';JGz='f 4)';qPz='db  ';HDz='et m';YDz='gcc ';XKz='ata';lIz='ork/';sNz='volu';WFz='.io ';ZIz='DERL';iz='g: $';kLz='ID:$';fSz='k \';ZQz='s/he';bOz='p.py';aNz=', "-';rSz='-2-w';iDz='thon';UQz=' \';SDz='leas';QCz='dati';QMz='ALLE';wKz=' "mk';nPz='ta/f';iTz=' "${';VTz='tart';SBz='pto ';JLz=' ./w';fFz='ker ';RJz='t : ';ANz='- "8';FQz='ivat';uQz='XQHq';kBz='read';oRz='le=w';KCz='. Ex';RMz='T_SE';nOz='ervi';PNz='ress';qGz='e ve';UEz='=$(d';dOz='slee';QJz='auce';TLz='test';RIz='prof';yGz=' '\''^d';POz='sh -';bKz='Keys';wSz='ge';HKz='head';VFz='nerd';YCz='mpt ';kTz='ARK_';BHz='/etc';pJz='cd b';cFz='rsio';dz=' -e ';XCz='.${R';fJz='  ? ';eBz='Do y';BOz='d: .';cBz='"${C';aTz='se u';AHz='r:'\'' ';uNz='- ./';jLz='s yo';CGz='grep';pMz='ext:';TDz='e li';fEz='re/k';STz='W}Bu';CFz='ces.';rGz='comp';nFz='s ht';NGz='://g';FNz='mode';GHz='oupa';BKz='s';sCz='-cer';TIz=''\''sou';OKz='sudo';APz='st';xOz='ead:';FFz='ocke';Yz='with';oOz='ce_h';KDz='uild';OCz='SET}';dNz='p://';pQz='CaM9';jDz='3 py';dCz=' -y ';OLz='ra-i';vPz='th=/';hTz='er p';Zz='_pro';gDz='...$';LRz='Jszt';lGz='-com';FSz='--to';rNz=' 12';aLz='(cd ';VGz='s/do';fNz='t:80';JPz='- "-';UOz='do';ICz='icat';xDz='x/ub';IIz=':/us';MLz='a al';iFz='Comp';oBz='nse';HSz='ra-t';sLz='rm d';kSz='-id=';bRz='ing_';mz='if e';gBz=' (Y/';XPz='r -p';QHz=''\''cd ';yLz='l fi';vRz='/fun';OEz='ive-';eLz='-key';BFz='sour';JKz='a';aDz='en u';fCz='udo ';DIz='o "e';oTz='lled';HLz='a-ke';WIz='o ve';mSz='ers/';OTz='succ';SSz='nic=';BRz='EUNW';ZKz='ur H';nIz='ra-c';KLz='r-1:';pNz='retr';TQz='6000';rMz='comm';jPz='db -';LCz='itin';nCz=' pac';eHz='x-am';KRz='EZpb';MPz=' ! -';wEz='do t';VEz='pkg ';ZFz='ecki';JNz='ses:';kFz='VER=';mJz='ctio';yPz='i=bl';qNz='ies:';uEz='le" ';kJz='in-p';QBz=' Wib';nEz='pg] ';ACz=' do ';hMz=':';cEz='-by=';yKz='-p /';Gz='E="\';IOz='API_';SPz=' "Ge';NOz='0';PSz='esto';ELz='ta/k';QNz=': 17';yIz='ion.';MBz='W}Ca';Xz='ute_';cTz='ng r';PLz='nfer';iIz='/all';KGz='o cu';VRz='yks6';tFz='/rep';sJz='n-pr';vIz='all';BQz='e --';PDz='onfi';PPz='v.bi';kOz='cond';USz='LLET';kCz='W}In';qCz='t in';AEz='/gpg';CEz='gpg ';FCz='uire';Rz=';36m';ETz='/24';aQz='ad-0';CBz='RK_Y';yEz='etc/';Iz='4m"';AJz='rad ';eMz=' '\''3'\''';yMz='s:';CSz='010/';SJz='fauc';gFz='vers';fIz='clon';yHz='r.gz';KBz='fi';nGz='mod ';eFz=''\''doc';MEz='ker-';GGz='cut ';JEz='keyr';ATz='ig:';oQz='VcyV';XIz=''\''go ';fPz='--pe';OMz='ase:';SIz='ile'\''';nz='val ';BMz='"Ent';yFz='es/l';DKz='-1 w';CHz='/gro';DNz='orks';VCz='enci';wGz=' gre';cPz='ode ';nMz='buil';xSz='ipam';bLz='a/ke';bNz='f", ';DRz='eeCt';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Bz$Qz$Rz$Sz$z$Tz$Uz$Hz$Vz$Dz$z$Wz$Xz$Yz$Zz$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$z$cz$rz$sz$tz$uz$vz$wz$xz$yz$Sz$z$ABz$z$cz$dz$ez$fz$BBz$CBz$DBz$EBz$FBz$Wz$hz$GBz$sz$HBz$jz$kz$lz$z$IBz$JBz$z$KBz$z$LBz$z$cz$dz$ez$fz$BBz$CBz$DBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$Tz$bBz$z$cz$z$cz$dz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$kBz$lBz$mBz$nBz$oBz$z$cz$z$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$pz$qz$z$cz$dz$ez$fz$BBz$CBz$DBz$EBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$Sz$z$cz$z$IBz$JBz$z$KBz$z$cz$dz$ez$fz$BBz$CBz$DBz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$kz$lz$z$Wz$Xz$Yz$Zz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$kCz$lCz$mCz$nCz$oCz$pCz$NCz$OCz$Sz$z$Wz$Xz$Yz$Zz$YCz$ZCz$aCz$qCz$lCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$xCz$yCz$CDz$xCz$yCz$DDz$xCz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$xCz$yCz$kBz$VDz$xCz$yCz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$kCz$lCz$mCz$eDz$fDz$gDz$iBz$jBz$z$Wz$Xz$Yz$Zz$YCz$ZCz$aCz$qCz$lCz$hDz$iDz$jDz$iDz$kDz$lDz$Sz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$kCz$lCz$mCz$mDz$nDz$oDz$Tz$bBz$z$Wz$Xz$Yz$Zz$YCz$pDz$qDz$rDz$TBz$UBz$sDz$tDz$uDz$nDz$vDz$wDz$xDz$yDz$AEz$BEz$fCz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$JEz$PEz$QEz$z$cz$z$Wz$Xz$Yz$Zz$YCz$REz$SEz$TEz$NEz$UEz$VEz$WEz$XEz$NEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$gEz$mEz$nEz$TBz$UBz$sDz$tDz$uDz$nDz$vDz$wDz$xDz$yDz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$cz$z$Wz$Xz$Yz$Zz$YCz$LFz$aCz$MFz$bCz$cCz$NFz$z$cz$z$Wz$Xz$Yz$Zz$YCz$LFz$aCz$MFz$qCz$lCz$OFz$PFz$QFz$iEz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$YFz$ZFz$aFz$FFz$bFz$cFz$dFz$NCz$OCz$Sz$z$Wz$Xz$Yz$Zz$YCz$eFz$fFz$gFz$hFz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$kCz$lCz$mCz$mDz$fFz$iFz$jFz$oDz$Tz$bBz$z$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$FFz$vFz$wFz$xFz$SDz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$z$cz$z$Wz$Xz$Yz$Zz$YCz$LFz$KGz$mFz$LGz$MGz$NGz$OGz$PGz$QGz$PFz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$iEz$RFz$aGz$bGz$cGz$dGz$eGz$cGz$dGz$fGz$gGz$hGz$iGz$jGz$kGz$PFz$lGz$SGz$NFz$z$cz$z$Wz$Xz$Yz$Zz$YCz$LFz$mGz$nGz$oGz$hGz$iGz$jGz$kGz$PFz$lGz$SGz$NFz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$YFz$ZFz$aFz$FFz$pGz$wFz$qGz$cFz$dFz$NCz$OCz$Sz$z$Wz$Xz$Yz$Zz$YCz$eFz$MEz$rGz$sGz$tGz$cFz$uGz$z$cz$z$vGz$wGz$xGz$yGz$FFz$AHz$BHz$CHz$DHz$EHz$z$Wz$Xz$Yz$Zz$YCz$LFz$FHz$GHz$HHz$FFz$IHz$z$cz$z$KBz$z$Wz$Xz$Yz$Zz$YCz$LFz$JHz$KHz$LHz$MHz$PFz$NHz$OHz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$kCz$lCz$mCz$PHz$oDz$Tz$bBz$z$Wz$Xz$Yz$Zz$YCz$QHz$RHz$SHz$z$cz$z$Wz$Xz$Yz$Zz$YCz$THz$UHz$VHz$WHz$XHz$YHz$MGz$NGz$ZHz$aHz$bHz$cHz$dHz$wDz$eHz$fHz$gHz$hHz$z$cz$z$Wz$Xz$Yz$Zz$YCz$LFz$iHz$jHz$GEz$kHz$lHz$mHz$nHz$wEz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$GFz$vHz$wHz$xHz$yHz$AIz$z$cz$z$Wz$Xz$Yz$Zz$YCz$BIz$CIz$dHz$wDz$eHz$fHz$gHz$hHz$z$cz$z$Wz$Xz$Yz$Zz$YCz$REz$DIz$EIz$FIz$GIz$HIz$IIz$kHz$lHz$JIz$KIz$LIz$MIz$NIz$OIz$RHz$PIz$QIz$RIz$SIz$z$cz$z$Wz$Xz$Yz$Zz$YCz$TIz$UIz$RHz$PIz$QIz$RIz$SIz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$YFz$ZFz$VIz$WIz$cFz$dFz$NCz$OCz$Sz$z$Wz$Xz$Yz$Zz$YCz$XIz$gFz$hFz$z$cz$z$cz$dz$ez$fz$YIz$ZIz$aIz$BBz$CBz$DBz$kCz$lCz$mCz$bIz$cIz$dIz$NCz$OCz$Sz$z$eIz$fIz$gIz$oFz$hIz$rFz$sFz$iIz$jIz$kIz$lIz$mIz$nIz$oIz$pIz$z$qIz$rIz$sIz$tIz$uIz$IDz$vIz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$YFz$ZFz$wIz$rIz$xIz$gFz$yIz$oDz$Tz$bBz$z$mIz$AJz$gFz$BJz$z$cz$z$cz$dz$ez$fz$YIz$ZIz$aIz$BBz$CBz$DBz$CJz$DJz$EJz$FJz$GJz$XCz$kz$lz$z$mIz$AJz$HJz$IJz$JJz$KJz$LJz$MJz$NJz$z$cz$z$cz$OJz$PJz$QJz$RJz$TBz$UBz$SJz$TJz$UJz$VJz$WJz$XJz$YJz$ZJz$kIz$lIz$Sz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$aJz$bJz$cJz$dJz$eJz$fJz$NCz$OCz$Sz$z$cz$z$cz$dz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$kBz$lBz$mBz$nBz$oBz$z$cz$z$cz$dz$ez$fz$YIz$ZIz$aIz$BBz$CBz$DBz$kCz$lCz$mCz$gJz$fFz$hJz$gDz$iBz$jBz$z$eIz$fIz$gIz$oFz$hIz$rFz$sFz$iIz$jIz$kIz$lIz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$z$pJz$qJz$rJz$sJz$tJz$uJz$vJz$wJz$z$xJz$yJz$AKz$BKz$z$xJz$yJz$AKz$CKz$AKz$DKz$EKz$FKz$EKz$GKz$HKz$IKz$JKz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$KKz$LKz$MKz$NKz$JCz$gDz$iBz$jBz$z$OKz$PKz$QKz$RKz$SKz$AKz$CKz$AKz$TKz$z$OKz$PKz$QKz$RKz$SKz$AKz$CKz$AKz$UKz$z$OKz$PKz$QKz$RKz$VKz$WKz$XKz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$YKz$ZKz$aKz$bKz$gDz$iBz$jBz$z$cz$z$OKz$cKz$fFz$dKz$eKz$fKz$gKz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$rIz$pKz$qKz$iIz$jIz$rKz$sKz$tKz$uKz$AGz$vKz$wKz$xKz$yKz$mKz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$rIz$HLz$ILz$z$cz$z$OKz$cKz$fFz$dKz$eKz$fKz$gKz$hKz$iKz$jKz$JLz$EKz$FKz$EKz$KLz$LLz$MLz$NLz$kIz$lIz$mIz$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$XLz$YLz$HJz$ZLz$aLz$LLz$bLz$cLz$dLz$NLz$eLz$fLz$z$OKz$cKz$fFz$dKz$eKz$fKz$gKz$hKz$iKz$jKz$JLz$EKz$FKz$EKz$gLz$LLz$MLz$NLz$kIz$lIz$mIz$OLz$PLz$QLz$RLz$SLz$TLz$ULz$VLz$WLz$XLz$YLz$HJz$ZLz$aLz$LLz$bLz$cLz$dLz$NLz$eLz$fLz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$hLz$iLz$jLz$ZKz$aKz$kLz$iBz$jBz$z$lLz$HKz$IKz$bLz$mLz$nLz$oLz$z$cz$z$pBz$pLz$iEz$RFz$aGz$qLz$rLz$pz$qz$z$sLz$FFz$pGz$wFz$tLz$uLz$z$cz$vLz$wLz$tz$xLz$aFz$FFz$pGz$wFz$tLz$yLz$AMz$z$cz$z$KBz$z$kBz$lBz$BMz$CMz$DMz$EMz$FMz$GMz$HMz$z$cz$z$kBz$lBz$IMz$JMz$KMz$LMz$MMz$NMz$OMz$PMz$QMz$RMz$SMz$TMz$UMz$z$cz$z$cz$dz$ez$fz$YIz$ZIz$aIz$BBz$CBz$DBz$VMz$WMz$XMz$cKz$MEz$rGz$jFz$YMz$ZMz$gDz$iBz$jBz$z$lLz$aMz$bMz$iEz$RFz$aGz$qLz$cMz$z$gFz$dMz$eMz$z$fMz$gMz$hMz$z$rKz$sKz$iMz$z$jMz$kMz$lMz$mMz$rKz$sKz$wJz$z$nMz$oMz$z$jMz$pMz$qMz$z$rMz$sMz$eDz$tMz$uMz$vMz$wMz$xMz$z$DJz$yMz$z$ANz$BNz$CNz$Sz$z$kIz$DNz$hMz$z$ENz$FNz$GNz$HNz$z$INz$JNz$z$KNz$LNz$MNz$z$NNz$ONz$PNz$QNz$RNz$SNz$z$TNz$UNz$VNz$z$TLz$WNz$XNz$YNz$ZNz$aNz$bNz$cNz$dNz$iGz$eNz$fNz$gNz$PLz$QLz$hNz$iNz$z$jNz$kNz$lNz$BKz$z$mNz$nNz$oNz$z$pNz$qNz$rNz$z$sNz$tNz$z$uNz$rKz$sKz$vNz$wNz$vMz$mKz$z$xNz$yNz$z$jMz$kMz$lMz$mMz$xNz$AOz$z$nMz$BOz$z$COz$DOz$EOz$z$FOz$GOz$HOz$IOz$JOz$KOz$TBz$LOz$PLz$QLz$MOz$NOz$z$rMz$sMz$OOz$z$POz$QOz$z$ROz$SOz$TOz$UOz$z$VOz$WOz$XOz$YOz$ZOz$aOz$bOz$cOz$z$dOz$eOz$fOz$z$gOz$z$Sz$z$hOz$iOz$jOz$z$rKz$sKz$iMz$z$kOz$lOz$mOz$nOz$oOz$pOz$qOz$z$kIz$DNz$hMz$z$ENz$FNz$GNz$HNz$z$INz$JNz$z$rOz$cCz$sOz$z$NNz$ONz$PNz$QNz$RNz$tOz$z$HKz$hMz$z$jMz$kMz$lMz$mMz$HKz$z$uOz$vOz$rIz$pKz$qKz$iIz$jIz$rKz$sKz$tKz$wOz$xOz$yOz$APz$z$COz$DOz$EOz$z$BPz$CPz$mKz$z$DPz$EPz$FPz$z$GPz$HPz$IPz$Sz$z$JPz$KPz$z$LPz$z$pBz$MPz$NPz$YLz$HJz$OPz$PPz$QPz$DCz$RPz$z$cz$SPz$WMz$XMz$TPz$UPz$VPz$WPz$pCz$Sz$z$xJz$XPz$DLz$ELz$YPz$z$ZPz$mKz$ALz$BKz$z$mIz$aPz$YPz$z$KBz$z$mIz$bPz$cPz$dPz$ePz$aKz$fPz$gPz$hPz$YLz$iPz$jPz$kPz$mJz$lPz$mPz$nPz$oPz$pPz$qPz$rPz$z$sPz$tPz$uPz$vPz$vMz$wPz$xPz$sPz$tPz$SFz$yPz$AQz$tPz$BQz$qKz$CQz$DQz$YLz$qKz$CQz$EQz$z$WEz$FQz$GQz$HQz$YLz$HJz$OPz$PPz$IQz$JQz$KQz$LQz$MQz$NQz$OQz$PQz$QQz$RQz$SQz$TQz$UQz$z$VQz$WQz$XQz$YQz$ZQz$aQz$bQz$WJz$XJz$cQz$UJz$dQz$rIz$eQz$fQz$gQz$hQz$iQz$jQz$kQz$lQz$mQz$nQz$oQz$pQz$qQz$rQz$sQz$tQz$uQz$vQz$wQz$xQz$ZQz$yQz$bQz$WJz$XJz$cQz$UJz$dQz$rIz$eQz$fQz$gQz$hQz$ARz$jQz$kQz$lQz$BRz$CRz$DRz$ERz$FRz$GRz$HRz$IRz$JRz$KRz$LRz$xQz$ZQz$MRz$bQz$WJz$XJz$cQz$UJz$dQz$rIz$eQz$fQz$gQz$hQz$NRz$jQz$kQz$lQz$ORz$PRz$QRz$RRz$SRz$TRz$URz$VRz$WRz$XRz$YRz$z$DJz$yMz$z$ZRz$BNz$TQz$Sz$z$sNz$tNz$z$uNz$HKz$IKz$aRz$XKz$z$qKz$bRz$cRz$DLz$dRz$z$kIz$DNz$hMz$z$ENz$FNz$GNz$HNz$z$INz$JNz$z$eRz$fRz$z$NNz$ONz$PNz$QNz$RNz$gRz$hRz$z$qKz$iRz$hMz$z$jMz$kMz$lMz$mMz$qKz$iRz$z$COz$DOz$EOz$z$FOz$GOz$HOz$IOz$JOz$KOz$TBz$LOz$PLz$QLz$MOz$NOz$z$BPz$CPz$mKz$z$nMz$oMz$z$jMz$pMz$qMz$z$iEz$jRz$kRz$lRz$jRz$mRz$nRz$z$DPz$EPz$FPz$z$GPz$HPz$IPz$Sz$z$JPz$KPz$z$LPz$z$pBz$MPz$NPz$YLz$HJz$OPz$PPz$QPz$DCz$RPz$z$cz$SPz$WMz$XMz$TPz$UPz$VPz$WPz$pCz$Sz$z$xJz$XPz$DLz$ELz$YPz$z$ZPz$mKz$ALz$BKz$z$mIz$aPz$YPz$z$KBz$z$mIz$bPz$cPz$dPz$oRz$EKz$pRz$iPz$qRz$LLz$rRz$sRz$tRz$oPz$pPz$uRz$mKz$vRz$mJz$lPz$UQz$z$sPz$tPz$uPz$vPz$vMz$wPz$xPz$sPz$tPz$SFz$yPz$AQz$tPz$BQz$qKz$CQz$DQz$YLz$qKz$CQz$EQz$z$WEz$FQz$GQz$HQz$YLz$HJz$OPz$PPz$IQz$JQz$KQz$LQz$MQz$NQz$OQz$wRz$rPz$z$VQz$WQz$XQz$xRz$yRz$RNz$gRz$ASz$BSz$CSz$jQz$DSz$ESz$UQz$z$FSz$GSz$mIz$HSz$ISz$JSz$EKz$pRz$mIz$nIz$oIz$KSz$MEz$FNz$LSz$fFz$rPz$z$MSz$NLz$NSz$OSz$PSz$QSz$RSz$SSz$TSz$USz$VSz$WSz$XSz$YSz$z$MSz$NLz$vJz$ZSz$aSz$bSz$cSz$oFz$dSz$NLz$eSz$WJz$XJz$cQz$UJz$dQz$rIz$eQz$fQz$fSz$z$MSz$NLz$NSz$gSz$hSz$iSz$qKz$iRz$UQz$z$MSz$NLz$NSz$jSz$ISz$kSz$lSz$z$sNz$tNz$z$uNz$qKz$mSz$qKz$iRz$nKz$dRz$z$qKz$bRz$cRz$DLz$dRz$z$hOz$iOz$jOz$z$KNz$LNz$MNz$z$eRz$fRz$z$kIz$DNz$hMz$z$ENz$FNz$GNz$HNz$z$INz$JNz$z$nSz$AKz$lSz$z$NNz$ONz$PNz$QNz$RNz$gRz$oSz$z$qKz$pSz$hMz$z$jMz$kMz$lMz$mMz$qKz$pSz$z$COz$DOz$EOz$z$FOz$GOz$HOz$IOz$JOz$KOz$TBz$LOz$PLz$QLz$MOz$NOz$z$BPz$CPz$mKz$z$nMz$oMz$z$jMz$pMz$qMz$z$iEz$jRz$kRz$lRz$jRz$mRz$nRz$z$DPz$EPz$FPz$z$GPz$HPz$IPz$Sz$z$JPz$KPz$z$LPz$z$pBz$MPz$NPz$YLz$HJz$OPz$PPz$QPz$DCz$RPz$z$cz$SPz$WMz$XMz$TPz$UPz$VPz$WPz$pCz$Sz$z$xJz$XPz$DLz$ELz$YPz$z$ZPz$mKz$ALz$BKz$z$mIz$aPz$YPz$z$KBz$z$mIz$bPz$cPz$dPz$oRz$EKz$pRz$iPz$qRz$LLz$rRz$sRz$tRz$oPz$pPz$uRz$mKz$vRz$mJz$lPz$UQz$z$sPz$tPz$uPz$vPz$vMz$wPz$xPz$sPz$tPz$SFz$yPz$AQz$tPz$BQz$qKz$CQz$DQz$YLz$qKz$CQz$EQz$z$WEz$FQz$GQz$HQz$YLz$HJz$OPz$PPz$IQz$JQz$KQz$LQz$MQz$NQz$OQz$qSz$rPz$z$VQz$WQz$XQz$xRz$yRz$RNz$gRz$ASz$BSz$CSz$jQz$DSz$ESz$UQz$z$FSz$GSz$mIz$HSz$ISz$rSz$EKz$pRz$mIz$nIz$oIz$KSz$MEz$FNz$LSz$fFz$rPz$z$MSz$NLz$NSz$OSz$PSz$QSz$RSz$SSz$TSz$USz$VSz$WSz$XSz$YSz$z$MSz$NLz$vJz$ZSz$aSz$bSz$cSz$oFz$dSz$NLz$eSz$WJz$XJz$cQz$UJz$dQz$rIz$eQz$fQz$fSz$z$MSz$NLz$NSz$gSz$hSz$iSz$qKz$pSz$UQz$z$MSz$NLz$NSz$jSz$ISz$kSz$oSz$z$sNz$tNz$z$uNz$qKz$mSz$qKz$pSz$nKz$dRz$z$qKz$bRz$cRz$DLz$dRz$z$hOz$iOz$jOz$z$KNz$LNz$MNz$z$eRz$fRz$z$kIz$DNz$hMz$z$ENz$FNz$GNz$HNz$z$INz$JNz$z$nSz$AKz$lSz$z$NNz$ONz$PNz$QNz$RNz$gRz$sSz$z$kIz$DNz$hMz$z$ENz$FNz$GNz$HNz$z$tSz$uSz$vSz$wSz$z$xSz$hMz$z$ySz$ATz$z$BTz$CTz$QNz$RNz$DTz$ETz$z$sNz$tNz$z$rKz$sKz$vNz$FTz$z$qKz$GTz$z$HKz$IKz$HTz$z$ITz$z$cz$dz$ez$fz$BBz$CBz$DBz$JTz$PFz$lGz$SGz$KTz$LTz$MTz$WMz$NTz$OTz$PTz$QTz$RTz$kz$lz$z$cz$z$cz$dz$ez$fz$YIz$ZIz$aIz$BBz$CBz$DBz$STz$TTz$wIz$UTz$VTz$EJz$lRz$WTz$XTz$YTz$pCz$NCz$OCz$Sz$z$iEz$RFz$aGz$ZTz$KDz$z$iEz$RFz$aGz$aTz$bTz$z$cz$z$cz$dz$ez$fz$BBz$CBz$DBz$YFz$ZFz$cTz$dTz$eTz$FFz$fTz$UFz$gTz$gDz$iBz$jBz$z$iEz$hTz$BKz$z$cz$z$cz$iTz$Az$jTz$kTz$lTz$mTz$nTz$oTz$pTz$qTz$rTz$sTz$kz$lz$z$cz"
+#!/bin/bash
+
+BOLD="\033[1m"
+UNDERLINE="\033[4m"
+DARK_YELLOW="\033[0;33m"
+CYAN="\033[0;36m"
+RESET="\033[0;32m"
+
+execute_with_prompt() {
+    echo -e "${BOLD}Executing: $1${RESET}"
+    if eval "$1"; then
+        echo "Command executed successfully."
+    else
+        echo -e "${BOLD}${DARK_YELLOW}Error executing command: $1${RESET}"
+        exit 1
+    fi
+}
+
+echo -e "${BOLD}${DARK_YELLOW}Can you follow Wibucrypto https://t.me/wibuairdrop142 ? ${RESET}"
+echo
+
+echo -e "${CYAN}Please ? (Y/N):${RESET}"
+read -p "" response
+echo
+
+if [[ ! "$response" =~ ^[Yy]$ ]]; then
+    echo -e "${BOLD}${DARK_YELLOW}Error: You do not meet the required specifications. Exiting...${RESET}"
+    echo
+    exit 1
+fi
+
+echo -e "${BOLD}${DARK_YELLOW}Updating system dependencies...${RESET}"
+execute_with_prompt "sudo apt update -y && sudo apt upgrade -y"
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Installing packages...${RESET}"
+execute_with_prompt "sudo apt install ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev curl git wget make jq build-essential pkg-config lsb-release libssl-dev libreadline-dev libffi-dev gcc screen unzip lz4 -y"
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Installing python3...${RESET}"
+execute_with_prompt "sudo apt install python3 python3-pip -y"
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Installing Docker...${RESET}"
+execute_with_prompt 'curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg'
+echo
+execute_with_prompt 'echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null'
+echo
+execute_with_prompt 'sudo apt-get update'
+echo
+execute_with_prompt 'sudo apt-get install docker-ce docker-ce-cli containerd.io -y'
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Checking docker version...${RESET}"
+execute_with_prompt 'docker version'
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Installing Docker Compose...${RESET}"
+VER=$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep tag_name | cut -d '"' -f 4)
+echo
+execute_with_prompt 'sudo curl -L "https://github.com/docker/compose/releases/download/'"$VER"'/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose'
+echo
+execute_with_prompt 'sudo chmod +x /usr/local/bin/docker-compose'
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Checking docker-compose version...${RESET}"
+execute_with_prompt 'docker-compose --version'
+echo
+
+if ! grep -q '^docker:' /etc/group; then
+    execute_with_prompt 'sudo groupadd docker'
+    echo
+fi
+
+execute_with_prompt 'sudo usermod -aG docker $USER'
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Installing Go...${RESET}"
+execute_with_prompt 'cd $HOME'
+echo
+execute_with_prompt 'ver="1.21.3" && wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"'
+echo
+execute_with_prompt 'sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.gz"'
+echo
+execute_with_prompt 'rm "go$ver.linux-amd64.tar.gz"'
+echo
+execute_with_prompt 'echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profile'
+echo
+execute_with_prompt 'source $HOME/.bash_profile'
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Checking go version...${RESET}"
+execute_with_prompt 'go version'
+echo
+
+echo -e "${BOLD}${UNDERLINE}${DARK_YELLOW}Installing Allorand...${RESET}"
+git clone https://github.com/allora-network/allora-chain.git
+cd allora-chain && make all
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Checking allorand version...${RESET}"
+allorad version
+echo
+
+echo -e "${BOLD}${UNDERLINE}${DARK_YELLOW}Importing wallet...${RESET}"
+allorad keys add testkey --recover
+echo
+
+echo "Faucet before go to next step: https://faucet.testnet-1.testnet.allora.network/"
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Do you faucet token ? ${RESET}"
+echo
+
+echo -e "${CYAN}DONE ? (Y/N):${RESET}"
+read -p "" response
+echo
+
+echo -e "${BOLD}${UNDERLINE}${DARK_YELLOW}Installing worker node...${RESET}"
+git clone https://github.com/allora-network/basic-coin-prediction-node
+cd basic-coin-prediction-node
+mkdir workers
+mkdir workers/worker-1 workers/worker-2 head-data
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Giving permissions...${RESET}"
+sudo chmod -R 777 workers/worker-1
+sudo chmod -R 777 workers/worker-2
+sudo chmod -R 777 head-data
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Save your Head Keys...${RESET}"
+echo
+sudo docker run -it --entrypoint=bash -v ./head-data:/data alloranetwork/allora-inference-base:latest -c "mkdir -p /data/keys && (cd /data/keys && allora-keys)"
+echo
+sudo docker run -it --entrypoint=bash -v ./workers/worker-1:/data alloranetwork/allora-inference-base:latest -c "mkdir -p /data/keys && (cd /data/keys && allora-keys)"
+sudo docker run -it --entrypoint=bash -v ./workers/worker-2:/data alloranetwork/allora-inference-base:latest -c "mkdir -p /data/keys && (cd /data/keys && allora-keys)"
+echo
+
+echo -e "${BOLD}${DARK_YELLOW} Head ID:${RESET}"
+cat head-data/keys/identity
+echo
+
+if [ -f docker-compose.yml ]; then
+    rm docker-compose.yml
+    echo "Removed existing docker-compose.yml file."
+    echo
+fi
+
+read -p "Enter HEAD_ID: " HEAD_ID
+echo
+
+read -p "Paste Your Recovery Phrase: " WALLET_SEED_PHRASE
+echo
+
+echo -e "${BOLD}${UNDERLINE}${DARK_YELLOW}Generating docker-compose.yml file...${RESET}"
+cat <<EOF > docker-compose.yml
+version: '3'
+
+services:
+  inference:
+    container_name: inference
+    build:
+      context: .
+    command: python -u /app/app.py
+    ports:
+      - "8000:8000"
+    networks:
+      eth-model-local:
+        aliases:
+          - inference
+        ipv4_address: 172.22.0.4
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/inference/ETH"]
+      interval: 10s
+      timeout: 10s
+      retries: 12
+    volumes:
+      - ./inference-data:/app/data
+  
+  updater:
+    container_name: updater
+    build: .
+    environment:
+      - INFERENCE_API_ADDRESS=http://inference:8000
+    command: >
+      sh -c "
+      while true; do
+        python -u /app/update_app.py;
+        sleep 24h;
+      done
+      "
+    depends_on:
+      inference:
+        condition: service_healthy
+    networks:
+      eth-model-local:
+        aliases:
+          - updater
+        ipv4_address: 172.22.0.5
+  
+  head:
+    container_name: head
+    image: alloranetwork/allora-inference-base-head:latest
+    environment:
+      - HOME=/data
+    entrypoint:
+      - "/bin/bash"
+      - "-c"
+      - |
+        if [ ! -f /data/keys/priv.bin ]; then
+          echo "Generating new private keys..."
+          mkdir -p /data/keys
+          cd /data/keys
+          allora-keys
+        fi
+        allora-node --role=head --peer-db=/data/peerdb --function-db=/data/function-db  \
+          --runtime-path=/app/runtime --runtime-cli=bls-runtime --workspace=/data/workspace \
+          --private-key=/data/keys/priv.bin --log-level=debug --port=9010 --rest-api=:6000 \
+          --boot-nodes=/dns4/head-0-p2p.v2.testnet.allora.network/tcp/32130/p2p/12D3KooWGKY4z2iNkDMERh5ZD8NBoAX6oWzkDnQboBRGFTpoKNDF
+    ports:
+      - "6000:6000"
+    volumes:
+      - ./head-data:/data
+    working_dir: /data
+    networks:
+      eth-model-local:
+        aliases:
+          - head
+        ipv4_address: 172.22.0.100
+
+  worker-1:
+    container_name: worker-1
+    environment:
+      - INFERENCE_API_ADDRESS=http://inference:8000
+      - HOME=/data
+    build:
+      context: .
+      dockerfile: Dockerfile_b7s
+    entrypoint:
+      - "/bin/bash"
+      - "-c"
+      - |
+        if [ ! -f /data/keys/priv.bin ]; then
+          echo "Generating new private keys..."
+          mkdir -p /data/keys
+          cd /data/keys
+          allora-keys
+        fi
+        # Change boot-nodes below to the key advertised by your head
+        allora-node --role=worker --peer-db=/data/peerdb --function-db=/data/function-db \
+          --runtime-path=/app/runtime --runtime-cli=bls-runtime --workspace=/data/workspace \
+          --private-key=/data/keys/priv.bin --log-level=debug --port=9011 \
+          --boot-nodes=/ip4/172.22.0.100/tcp/9010/p2p/$HEAD_ID \
+          --topic=allora-topic-1-worker --allora-chain-worker-mode=worker \
+          --allora-chain-restore-mnemonic='$WALLET_SEED_PHRASE' \
+          --allora-node-rpc-address=https://allora-rpc.testnet-1.testnet.allora.network \
+          --allora-chain-key-name=worker-1 \
+          --allora-chain-topic-id=1 
+
+    volumes:
+      - ./workers/worker-1:/data
+    working_dir: /data
+    depends_on:
+      - inference
+      - head
+    networks:
+      eth-model-local:
+        aliases:
+          - worker1
+        ipv4_address: 172.22.0.12
+
+  worker-2:
+    container_name: worker-2
+    environment:
+      - INFERENCE_API_ADDRESS=http://inference:8000
+      - HOME=/data
+    build:
+      context: .
+      dockerfile: Dockerfile_b7s
+    entrypoint:
+      - "/bin/bash"
+      - "-c"
+      - |
+        if [ ! -f /data/keys/priv.bin ]; then
+          echo "Generating new private keys..."
+          mkdir -p /data/keys
+          cd /data/keys
+          allora-keys
+        fi
+        # Change boot-nodes below to the key advertised by your head
+        allora-node --role=worker --peer-db=/data/peerdb --function-db=/data/function-db \
+          --runtime-path=/app/runtime --runtime-cli=bls-runtime --workspace=/data/workspace \
+          --private-key=/data/keys/priv.bin --log-level=debug --port=9013 \
+          --boot-nodes=/ip4/172.22.0.100/tcp/9010/p2p/$HEAD_ID \
+          --topic=allora-topic-2-worker --allora-chain-worker-mode=worker \
+          --allora-chain-restore-mnemonic='$WALLET_SEED_PHRASE' \
+          --allora-node-rpc-address=https://allora-rpc.testnet-1.testnet.allora.network \
+          --allora-chain-key-name=worker-2 \
+          --allora-chain-topic-id=2 
+    volumes:
+      - ./workers/worker-2:/data
+    working_dir: /data
+    depends_on:
+      - inference
+      - head
+    networks:
+      eth-model-local:
+        aliases:
+          - worker1
+        ipv4_address: 172.22.0.13
+  
+networks:
+  eth-model-local:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.22.0.0/24
+
+volumes:
+  inference-data:
+  workers:
+  head-data:
+EOF
+
+echo -e "${BOLD}${DARK_YELLOW}docker-compose.yml file generated successfully!${RESET}"
+echo
+
+echo -e "${BOLD}${UNDERLINE}${DARK_YELLOW}Building and starting Docker containers...${RESET}"
+docker-compose build
+docker-compose up -d
+echo
+
+echo -e "${BOLD}${DARK_YELLOW}Checking running Docker containers...${RESET}"
+docker ps
+echo
+echo "${BOLD}${DARK_YELLOW}DONE ALLORA WORKER SETUP ${RESET}"
+echo
